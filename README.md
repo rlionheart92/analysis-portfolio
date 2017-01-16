@@ -5,5 +5,8 @@ This repository will contain a number of examples of data analysis work that I h
 Examples:
 * Data Cleaning
    * Data Cleaning with Python and pandas, to export to a SQLite Database 
-* Visualisation
+* Visualisati
    * Data Visualisation, using Python and matplotlib, of a barchart.
+
+---
+Richard Betteridge (www.richardonhealth.com | @rlionheart92)
